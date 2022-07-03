@@ -1,4 +1,4 @@
-The project sample app is build using Kotlin with MVVM architecture by loading informations from Open API to show one approach to using some of the best practices in Android Development.
+The project is build using Kotlin with MVVM architecture by loading informations from Open API to show one approach to using some of the best practices in Android Development.
 
 Including:
 
@@ -7,5 +7,4 @@ Including:
 * **Hilt** (DI)
 * SharedViewModel.
 * Reactive UIs using **LiveData** observables and **View Binding**.
-* A remote layer with a repository.
-* **JUnit**
+
